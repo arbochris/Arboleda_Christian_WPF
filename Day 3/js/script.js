@@ -190,4 +190,4 @@ console.log(combined2);
 //you can't mix a number and a concatenation. it will smash it all together.
 
 
-var together = "the results of adding numbers is "+combine+";
+var together = "the results of adding numbers is "+combined+";
