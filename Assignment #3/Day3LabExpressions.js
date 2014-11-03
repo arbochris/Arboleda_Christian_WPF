@@ -6,11 +6,12 @@ Instructional Expressionals
 
 //Slice of Pie 1
 
-    //declared and defined the variables
+//declared and defined the variables
 
-var slicesofpie = 10
-var numberofpeople = 60
-var boxesofpizza = 18
 
-//
 
+
+
+
+
+//declare and define the total amount of pizza
