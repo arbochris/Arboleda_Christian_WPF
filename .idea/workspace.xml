@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81b6f7ed-9f73-4960-92e6-8f842415afed" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignment #3/Day3LabExpressions.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 4/js/classNotesArrays.js" afterPath="$PROJECT_DIR$/Day 4/js/classNotesArrays.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 3/firstFile.html" afterPath="$PROJECT_DIR$/Day 3/firstFile.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 4/index.html" afterPath="$PROJECT_DIR$/Day 4/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Arboleda_Christian_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,11 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="classNotesArrays.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day 4/js/classNotesArrays.js">
+      <file leaf-file-name="Day 4 Prompts.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day 4/js/Day 4 Prompts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.91253644" vertical-offset="499" max-vertical-offset="1215">
-              <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.41545188" vertical-offset="0" max-vertical-offset="686">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -56,8 +52,10 @@
         <option value="$PROJECT_DIR$/Assignment #3/Day3LabExpressions.js" />
         <option value="$PROJECT_DIR$/Day 4/classNotes.js" />
         <option value="$PROJECT_DIR$/Day 3/firstFile.html" />
-        <option value="$PROJECT_DIR$/Day 4/index.html" />
         <option value="$PROJECT_DIR$/Day 4/js/classNotesArrays.js" />
+        <option value="$PROJECT_DIR$/Day 4/index.html" />
+        <option value="$PROJECT_DIR$/Day 4/prompts.html" />
+        <option value="$PROJECT_DIR$/Day 4/js/Day 4 Prompts.js" />
       </list>
     </option>
   </component>
@@ -354,7 +352,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 4/index.html">
+    <entry file="file://$PROJECT_DIR$/Day 4/js/classNotesArrays.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.91253644" vertical-offset="499" max-vertical-offset="1215">
+          <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 4/prompts.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2265861" vertical-offset="0" max-vertical-offset="662">
           <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
@@ -362,10 +370,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 4/js/classNotesArrays.js">
+    <entry file="file://$PROJECT_DIR$/Day 4/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.91253644" vertical-offset="499" max-vertical-offset="1215">
-          <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.24924472" vertical-offset="0" max-vertical-offset="662">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 4/js/Day 4 Prompts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41545188" vertical-offset="0" max-vertical-offset="686">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
