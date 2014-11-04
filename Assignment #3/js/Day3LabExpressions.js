@@ -17,10 +17,15 @@ var numberPeople = 60;
 var slicesEaten = 3;
 
 //now that the givens have been defined I calculate the slices eaten
-
 var slicesEaten = slicesPizza * boxesPizza / numberPeople;
-console.log(slicesEaten);
-alert("Each person ate "+slicesEaten+" slices of pizza at the party.");
+console.log(slicesEaten); //output
+alert("Each person ate "+slicesEaten+" slices of pizza at the party."); //alert output
 
-//
+
+//Part 2: Slices of Pie
+//Calculate how many slices does Sparky get?
+var sparkyEats = slicesPizza%slicesEaten //calculate the remainder
+console.log(sparkyEats); //output console
+alert("Sparky got "+sparkyEats+" slice(s) of pizza."); //output prompt
+
 
