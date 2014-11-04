@@ -94,6 +94,7 @@ assigns the value to the variable
 *= multiply the value of the variable by the number
  */
 
+//assignment operators
 var x = 1;
 x++; //the same as x = x+1;
 x--;
