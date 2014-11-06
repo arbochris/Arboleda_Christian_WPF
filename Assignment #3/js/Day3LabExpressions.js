@@ -29,3 +29,7 @@ console.log(sparkyEats); //output console
 alert("Sparky got "+sparkyEats+" slice(s) of pizza."); //output prompt
 
 
+//Average Shopping Bill
+//calculate amount spent on groceries.
+
+var
