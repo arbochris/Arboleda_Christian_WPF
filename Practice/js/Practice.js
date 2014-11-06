@@ -37,4 +37,6 @@ var results = total/3
 
 console.log(results);
 
+//prompt
+
 

@@ -49,10 +49,30 @@ if(condition to test);
 //compares two values and returns a boolean
 
 //create variable to hold the kids height
-var kidHeight=47
+
+
+
+//
+var kidHeight=44.9
 
 //add sneaker lift
 var sneakerLift=2
+
+//create variable for kids min height
+
+var minHeight=48;
+
+//if your parent goes on the ride with you - 45" and over can ride
+var withParentHeight=45;
+
+//if statement
+if(kidHeight>minHeight){
+    //true code
+    console.log("congrats you are tall enough to ride");
+
+}else if(kidHeight>=withParentHeight){
+    console.log("you can ride but with your parent");
+}
 
 //if statement
 
