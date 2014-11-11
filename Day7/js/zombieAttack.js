@@ -19,6 +19,30 @@ var numBites=4; //number of bites per zombie per day.
 var days=8; // number of days
 
 
+
+//how many days will it takes us to get to 1,000,000 zombies
+
+
+while(numZombies<1000000){
+    //how many new zombies get made and when do they bite people
+
+    var newZombies= numZombies*numBites;
+
+    //the bitten people are the zombies
+
+    numZombies=newZombies+numZombies;
+    console.log("there are now "+numZombies+" zombies on day #"+days+"!");
+
+days++;
+
+
+}
+
+
+
+
+
+
 //every day zombies will bite and turn people into zombies
 
 //loop number of days
