@@ -60,7 +60,7 @@ console.log(a);
  var cupsBought = prompt("how many cups are you going to buy?");
 
  //add the number of cups i had plus i'm buying
- var totalCups = Number(cupsBought) + parseInt(cupsBought);
+ var totalCups = Number(cupsHad) + parseInt(cupsBought);
 
  console.log(totalCups);
 
