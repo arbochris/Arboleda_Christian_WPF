@@ -8,3 +8,11 @@
 //we want to know how long does a 30lb bag of dry food last for Yumi.
 //first we establish the n  eeded variables:
 
+
+var feedTime=10
+if(feedTime>=9){
+    console.log("do not feed the dogs yet");
+
+}else{
+    console.log("feed the dogs");
+}
