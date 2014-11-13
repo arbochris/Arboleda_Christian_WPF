@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81b6f7ed-9f73-4960-92e6-8f842415afed" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice/js/Practice.js" afterPath="$PROJECT_DIR$/Practice/js/Practice.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day8/js/functions.js" afterPath="$PROJECT_DIR$/Day8/js/functions.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day8/js/argumentsAndParameters.js" afterPath="$PROJECT_DIR$/Day8/js/argumentsAndParameters.js" />
     </list>
     <ignored path="Arboleda_Christian_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -78,8 +77,8 @@
       <file leaf-file-name="argumentsAndParameters.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day8/js/argumentsAndParameters.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3065134" vertical-offset="0" max-vertical-offset="783">
-              <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+            <state vertical-scroll-proportion="0.042145595" vertical-offset="177" max-vertical-offset="960">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -905,8 +904,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day8/js/argumentsAndParameters.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3065134" vertical-offset="0" max-vertical-offset="783">
-          <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+        <state vertical-scroll-proportion="0.042145595" vertical-offset="177" max-vertical-offset="960">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
