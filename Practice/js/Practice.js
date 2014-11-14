@@ -1,21 +1,41 @@
 
-// 1 scoop is equal to = 1.5 cups or 12 ounces
-//Pupster eats 8 ounces = 1 cup
-//yumi eats 12 ounces = 1.5 cups
-//the bag is 30 pounds = 480 ounces
-//
+//establish variables
 
-//we want to know how long does a 30lb bag of dry food last for Yumi.
-//first we establish the n  eeded variables:
+var bagFood=480;    //ounces
+var yumiFood=8; //ounces
+var pupsterFood=4;  //ounces
 
+//expression
+
+daysOfFoodLeft=bagFood/(yumiFood+pupsterFood);
+console.log(daysOfFoodLeft);
+
+alert("WARNING!! The "+bagFood+ " ounces of food equals 30 lbs.\n You have "+daysOfFoodLeft+ " days until food runs short.");
+
+//now i want to know when to feed the dogs
+//established variable
 
 var feedTime=10
-if(feedTime>=9){
-    console.log("do not feed the dogs yet");
+var timeHome=prompt("what time did you get home?\n (24hr input)");
 
-}else{
-    console.log("feed the dogs");
+//validated the prompt twice
+
+if(timeHome==="") {
+    timeHome = prompt("What time did you get home?\nDo not leave blank!!");
+}
+    if(timeHome===""){
+    timeHome=prompt("(*sigh* Is this thing on?)\n What time did you get home?");
 }
 
-//
+(timeHome<=feedTime)?console.log("Don't feed them yet."):(timeHome>=feedTime)?console.log("Feed them. Pupster gets "+pupsterFood+ " ounces and Yumi gets "+yumiFood+ " ounces.");
+
+/*
+if(timeHome<=feedTime){
+
+    console.log("Don't feed them yet.");
+
+}else if(timeHome>=feedTime){
+    console.log("Feed them. Pupster gets "+pupsterFood+ " ounces and Yumi gets "+yumiFood+ " ounces.");
+}
+**/
 
