@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81b6f7ed-9f73-4960-92e6-8f842415afed" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day9/js/procedures.js" afterPath="$PROJECT_DIR$/Day9/js/procedures.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day9/js/anonymousFunctions.js" afterPath="$PROJECT_DIR$/Day9/js/anonymousFunctions.js" />
     </list>
     <ignored path="Arboleda_Christian_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -42,23 +42,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="anonymousFunctions.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day9/js/anonymousFunctions.js">
+      <file leaf-file-name="multipleFunctions.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day9/js/multipleFunctions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.19157088" vertical-offset="0" max-vertical-offset="783">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="anonymousFunctions.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day9/anonymousFunctions.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
-              <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+            <state vertical-scroll-proportion="0.5785441" vertical-offset="57" max-vertical-offset="1290">
+              <caret line="34" column="28" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -72,8 +60,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Day 5/JS/Day 5 Conditionals.js" />
-        <option value="$PROJECT_DIR$/Day 5/Day 5 Conditionals.html" />
         <option value="$PROJECT_DIR$/Day 5/js/Day 5 Conditionals.js" />
         <option value="$PROJECT_DIR$/Day 5/steakTemp.html" />
         <option value="$PROJECT_DIR$/Day 5/js/Day 5 SteakTemp.js" />
@@ -123,6 +109,8 @@
         <option value="$PROJECT_DIR$/Day9/js/procedures.js" />
         <option value="$PROJECT_DIR$/Day9/anonymousFunctions.html" />
         <option value="$PROJECT_DIR$/Day9/js/anonymousFunctions.js" />
+        <option value="$PROJECT_DIR$/Day9/multipleFunctions.html" />
+        <option value="$PROJECT_DIR$/Day9/js/multipleFunctions.js" />
       </list>
     </option>
   </component>
@@ -547,20 +535,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Day 3/firstFile.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13595167" vertical-offset="0" max-vertical-offset="662">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 5/steakTemp.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09894459" vertical-offset="0" max-vertical-offset="758">
-          <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day 5/logicalOperators.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.09894459" vertical-offset="0" max-vertical-offset="758">
@@ -921,11 +895,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day9/js/anonymousFunctions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19157088" vertical-offset="0" max-vertical-offset="783">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.019157087" vertical-offset="120" max-vertical-offset="960">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day9/multipleFunctions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day9/js/multipleFunctions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5785441" vertical-offset="57" max-vertical-offset="1290">
+          <caret line="34" column="28" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
