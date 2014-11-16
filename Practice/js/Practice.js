@@ -1,6 +1,7 @@
 
 //Personal Related
 //variables for acces prompt
+//prompts are validated
 
 var answerArray=["Christian Arboleda", "7353"];
 
@@ -17,6 +18,7 @@ while(password===""){
 }
 
 //access prompt
+//Unless the exact information is entered as in array access will be denied
 if(question==answerArray[0]){
 }
 
@@ -28,9 +30,6 @@ if(password==answerArray[1]){
     console.log("Try again next time");
     alert("ACCESS DENIED!!");
     }
-
-
-
 
 //variables for food prompt
 
@@ -46,17 +45,15 @@ console.log(daysOfFoodLeft);
 alert("The "+bagFood+ " ounces (30lbs.) of food is under the counter. \n You have "+daysOfFoodLeft+ " days until food runs short.");
 
 
-//
-
 //now i want to know when to feed the dogs
 //established variable
 
-var feedTime=22
+var feedTime=22;
 var timeHome=prompt("what time did you get home?\n (24hr input)");
 
 //validated the prompt twice
 
-if(timeHome==="") {
+if(timeHome===""){
     timeHome = prompt("What time did you get home?\nDo not leave blank!!");
 }
     if(timeHome===""){
@@ -64,7 +61,6 @@ if(timeHome==="") {
 }
 
 if(timeHome<=feedTime){
-
     console.log("Don't feed them yet.");
 
 }else if(timeHome>=feedTime){
@@ -73,6 +69,6 @@ if(timeHome<=feedTime){
 }
 
 
-
+//
 
 
