@@ -61,3 +61,11 @@ var bagFood=480;  //the value is in ounces.
 var yumiFood=8;  //My dog Yumi's food in ounces.
 var pupster=4;  //My dog Pupster's food in ounces.
 
+//Now we write the expression to solve the problem:
+
+daysOfFoodLeft=bagFood/(yumiFood+pupsterFood);
+console.log(daysOfFoodLeft);
+
+alert("The "+bagFood+ " ounces (30lbs.) of food is under the counter. \n You have "+daysOfFoodLeft+ " days until food runs short.");
+
+
