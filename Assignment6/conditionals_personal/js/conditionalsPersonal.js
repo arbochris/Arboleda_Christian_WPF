@@ -53,3 +53,11 @@ if(question==answerArray[0]){   //unless the prompt matches the info input acces
  console.log("Try again next time."); //if the above conditon is not true then this will show.
  alert("ACCESS DENIED!!"); //an alert will pop out.
 }
+
+//I want to know how long it takes for my two dogs to finish a 30lb bag of dry food.
+//We establish the variables or givens.
+
+var bagFood=480;  //the value is in ounces.
+var yumiFood=8;  //My dog Yumi's food in ounces.
+var pupster=4;  //My dog Pupster's food in ounces.
+
