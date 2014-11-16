@@ -34,5 +34,22 @@ while(question===""){
 }
 var password=prompt("Now enter password please:");
 
-while(password===""){
- password=(prompt("Please enter password:"));
+while(password==="") {
+ password = (prompt("Please enter password:"));
+}
+
+//Now we build the access prompt.
+//unless the info entered into prompt matches array access will be denied.
+
+//if statement:
+
+if(question==answerArray[0]){   //unless the prompt matches the info input access will vary.
+ console.log("Access Granted"); //the console will show access granted.
+ alert("Welcome Mr. Arboleda"); //an alert prompt will show acknowledging entry.
+
+//else statement:
+
+}else{
+ console.log("Try again next time."); //if the above conditon is not true then this will show.
+ alert("ACCESS DENIED!!"); //an alert will pop out.
+}
