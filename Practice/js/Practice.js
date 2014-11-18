@@ -1,4 +1,4 @@
-
+/*
 //Personal Related
 //variables for acces prompt
 //prompts are validated
@@ -67,8 +67,8 @@ if(timeHome<=feedTime){
     console.log("Feed them.");
     alert("Pupster gets "+pupsterFood+ " ounces (1/2 scoop) and Yumi gets "+yumiFood+ " ounces (1 scoop).");
 }
+**/
 
-
-//
+///Conditionals Industry
 
 
