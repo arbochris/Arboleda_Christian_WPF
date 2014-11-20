@@ -26,15 +26,27 @@ while(selectItem==="" || isNaN(selectItem)){
 
 var discountPer=prompt("Let's find out your discount price. \n Enter selected item's discount:");
 
+//validate once more
+
 while(discountPer==="" || isNaN(discountPer)){
 
     discountPer= parseInt(prompt("Please do not leave blank. \n Enter discount of your selected item:"));
 }
 
-var forDiscount=(selectItem, discountPer){
+//create a function to calculate discount.
+//cost and discount are the parameters here.
+//discount price = (100-discount%)/100 * original price
+//P.E.M.D.A.S.
 
-    var discountPrice=selectItem*(discountPer/100);
+var forDiscount=function(selectItem, discountPer){
+
+    var discountPrice=(100-discountPer)/100*selectItem;
+
     return discountPrice;
 
 }
 
+//function call for the above function
+
+var returnedDiscountPrice=forDiscount(selectItem, discountPer);
+console.log("The original price of the item is $"+selectItem+ ". You will now pay $"+returnedDiscountPrice+ ". You got a "+discountPer+ "% discount!!");
