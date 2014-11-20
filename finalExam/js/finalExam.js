@@ -31,3 +31,10 @@ while(discountPer==="" || isNaN(discountPer)){
     discountPer= parseInt(prompt("Please do not leave blank. \n Enter discount of your selected item:"));
 }
 
+var forDiscount=(selectItem, discountPer){
+
+    var discountPrice=selectItem*(discountPer/100);
+    return discountPrice;
+
+}
+
